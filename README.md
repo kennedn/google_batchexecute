@@ -21,6 +21,8 @@ optional arguments:
 
 # Batchexecute documentation
 
+There are two main steps to calling batchexecute, you must first call a normal image search to be able to gather up required parameters from the HTML body, you can then construct a call to batchexecute to retrieve subsequent image results.
+
 ## Initial image search
 
 ### URL
