@@ -77,7 +77,7 @@ Refer to the reference script (image_search.py) for details on how to scrape the
 |authuser|`hardcoded`|`Unset`|Based on logged in user, no value set when not logged in
 |_reqid|`calculated`|181562| 1 + seconds since midnight + (100000 * page number)
 |rt|`hardcoded`|`Unset`| c = normal response, b = protobuf, omit for easier to parse json response
-|f.req|`calculated`| See [f.req](#f.req) section|batchexecute function parameters
+|f.req|`calculated`| See [f.req](#freq) section|batchexecute function parameters
 
 
 ### f.req
